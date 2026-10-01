@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Residence — Luxury Architectural Estate",
+  "description": "An architectural sanctuary in contemporary luxury living with panoramic coastal views, bespoke monolithic stone craftsmanship, and interactive 3D spatial presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
